@@ -1,0 +1,10 @@
+{
+  "name": "translation",
+  "version": "1.0.0",
+  "description": "Translation Agent - Multi-language translation with context awareness",
+  "author": "SKY-lv",
+  "license": "MIT",
+  "keywords": ["translation", "i18n", "multilingual", "ai-agent", "openclaw"],
+  "repository": "https://github.com/SKY-lv/translation",
+  "main": "SKILL.md"
+}
